@@ -18,7 +18,7 @@ meteor add baysao:riot-layout
 ~~~
 
 
-Then you use `RiotLayout.render()` to render your component. 
+Then you use `RiotLayout.render()` to render your component with first param is name of component (name in string) , second is custom data pass throught component.
 
 ~~~
 FlowRouter.route("/", {
