@@ -1,7 +1,7 @@
 Package.describe({
   name: 'baysao:riot-layout',
   summary: 'Layout Manager for React with SSR Support',
-  version: '0.1.0-2',
+  version: '0.1.0-3',
   git: 'https://github.com/baysao/meteor-riot-layout.git'
 });
 
