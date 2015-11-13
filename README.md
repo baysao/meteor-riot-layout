@@ -17,7 +17,6 @@ Secondly, add package [baysao:riot-layout](https://github.com/baysao/meteor-riot
 meteor add baysao:riot-layout
 ~~~
 
-Please see example folder for more clear.
 
 Then you use `RiotLayout.render()` to render your component. 
 
@@ -39,3 +38,5 @@ welcome.tag
     var name = opts.name
 </welcome>
 ~~~
+
+Please see example folder for more clear.
