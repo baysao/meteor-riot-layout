@@ -13,6 +13,6 @@ Package.onUse(function(api) {
 function configure(api) {
   api.versionsFrom('METEOR@1.1.0.2');
   api.use('kadira:flow-router-ssr@3.0.0', ['client', 'server'], {weak: true});
-  api.use('baysao:riotjs@2.3.1-4', ['client', 'server']);
+  api.use('baysao:riotjs-noprocessor@2.3.1-22', ['client', 'server']);
   api.addFiles('lib/riot_layout.js', ['client', 'server']);
 }

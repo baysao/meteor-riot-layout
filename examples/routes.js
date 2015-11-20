@@ -16,7 +16,7 @@ FlowRouter.route("/", {
 FlowRouter.route("/dashboard", {
 	name: "dashboard",
 	action: function(params) {
-		RiotLayout.render('dashboard', {name: "Dashboard"});
+		// RiotLayout.render('dashboard', {name: "Dashboard"});
 	}
 })
 

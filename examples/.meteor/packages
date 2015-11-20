@@ -20,5 +20,7 @@ autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 
 baysao:riotjs
-baysao:riot-layout
 kadira:flow-router
+#baysao:riot-layout
+
+baysao:riot-preprocessor
