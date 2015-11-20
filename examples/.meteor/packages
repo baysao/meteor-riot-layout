@@ -21,6 +21,5 @@ insecure                # Allow all DB writes from clients (for prototyping)
 
 baysao:riotjs
 kadira:flow-router
-#baysao:riot-layout
+baysao:riot-layout
 
-baysao:riot-preprocessor
